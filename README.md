@@ -1,5 +1,8 @@
 # cc-arc
 
+[![npm version](https://img.shields.io/npm/v/cc-arc.svg)](https://www.npmjs.com/package/cc-arc)
+[![npm downloads](https://img.shields.io/npm/dm/cc-arc.svg)](https://www.npmjs.com/package/cc-arc)
+
 Does Claude Code follow the Explore → Code → Verify arc? Analyze how sessions evolve across 3 phases.
 
 ```

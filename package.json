@@ -1,7 +1,7 @@
 {
   "name": "cc-arc",
   "version": "1.0.0",
-  "description": "Analyze how Claude Code sessions evolve across 3 phases — does the Explore→Code→Verify arc actually exist?",
+  "description": "Analyze how Claude Code sessions evolve across 3 phases \u2014 does the Explore\u2192Code\u2192Verify arc actually exist?",
   "type": "module",
   "bin": {
     "cc-arc": "./cli.mjs"
@@ -14,7 +14,11 @@
     "ai",
     "developer-tools",
     "analytics",
-    "sessions"
+    "sessions",
+    "claude",
+    "anthropic",
+    "cli",
+    "productivity"
   ],
   "author": "yurukusa",
   "license": "MIT",

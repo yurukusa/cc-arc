@@ -1,6 +1,6 @@
 {
   "name": "cc-arc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze how Claude Code sessions evolve across 3 phases \u2014 does the Explore\u2192Code\u2192Verify arc actually exist?",
   "type": "module",
   "bin": {
